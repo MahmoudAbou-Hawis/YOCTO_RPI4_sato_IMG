@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/sofar/yocto/poky/rpi-4-build/tmp
+SSTATE_DIR /home/sofar/yocto/sstate-cache
+NATIVELSBSTRING ubuntu-24.04
